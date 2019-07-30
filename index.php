@@ -24,7 +24,7 @@ else
 <body>
     <section class="congratulations">
         <h1>Hello from Jenkins!!!</h1>
-		<h2>Lesson 12</h2>
+		<h2>Lesson 12, attempt 2</h2>
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
     </section>
